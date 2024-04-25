@@ -1,8 +1,8 @@
 ## introduction:
 ### in this project we can see a data visualization for 5000 movies.
--we can see the data formate in movies_table_data.ipynb file.
--we can see multiple relationships between the table fields for the movies in movies_pairPlot.ipynb file or movies_pairPlot.python.
--we can see The Relationship Between Budget and Revenue for all the movies that had released after 1990.
+#### -we can see the data formate in movies_table_data.ipynb file.
+#### -we can see multiple relationships between the table fields for the movies in movies_pairPlot.ipynb file or movies_pairPlot.python.
+#### -we can see The Relationship Between Budget and Revenue for all the movies that had released after 1990.
 
 ## get started:
 ### to run the movies_data_visualization file open terminal and run this command:
